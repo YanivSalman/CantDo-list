@@ -1,0 +1,19 @@
+#main {
+    background-image: url('hhl.jpg');
+    height: 66vh;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+@media(min-width:960px) {
+    #h3  {
+        display: none;
+    }
+}
+@media(max-width:320px) {
+#Sbutton{
+    margin-top: 10px;
+    
+}
+}
